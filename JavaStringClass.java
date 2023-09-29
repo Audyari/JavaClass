@@ -21,6 +21,8 @@ public class JavaStringClass {
         char[] KarakterKeArray = nama.toCharArray();
         System.out.println(KarakterKeArray[0]);
 
+
+
     }
 
 }
